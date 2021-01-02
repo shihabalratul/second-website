@@ -2,13 +2,9 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: #055e47;
     color:white;
-    display:inline-flex;
+    
+    padding:20px 10px;
     }
-#head1{
-    text-align: left;
-    padding: 20px
-    }
-#head2{
+.right-heading{
     text-align: right;
-
 }
