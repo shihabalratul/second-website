@@ -1,0 +1,14 @@
+.heading{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #055e47;
+    color:white;
+    display:inline-flex;
+    }
+#head1{
+    text-align: left;
+    padding: 20px
+    }
+#head2{
+    text-align: right;
+
+}
