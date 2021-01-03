@@ -1,0 +1,25 @@
+.my-image{
+    width: 150px;
+    border-radius:50%;
+    border:5px solid #04df83;
+    display:block;
+    margin:auto;
+    
+
+    
+}
+.heading{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color:white;
+    background-color: #04df83;
+    text-align: center;
+    height: 50px;
+}
+.item{
+    width:300px;
+    display:block;
+    margin:auto;
+
+
+
+}
